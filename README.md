@@ -7,6 +7,7 @@
 La clase InterfazGrafica crea una interfaz gráfica utilizando Swing para mostrar información de conductores de Fórmula 1 de una base de datos PostgreSQL. La interfaz permite seleccionar un año de carrera y muestra una tabla con los conductores que participaron en las carreras de ese año, junto con estadísticas como el número de carreras y el número de carreras ganadas.
 
 Componentes Principales
+
 Variables de Clase
 Connection conn: Conexión a la base de datos PostgreSQL.
 JFrame frame: Ventana principal de la interfaz gráfica.
